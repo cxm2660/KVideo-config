@@ -16,14 +16,6 @@
     "priority": 5
   },
   {
-    "id": "maotai",
-    "name": "🎬茅台资源",
-    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "wolong",
     "name": "🎬卧龙资源",
     "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
@@ -264,14 +256,6 @@
     "priority": 5
   },
   {
-    "id": "shayu",
-    "name": "🔞鲨鱼资源",
-    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": true,
-    "priority": 5
-  },
-  {
     "id": "didi",
     "name": "🔞滴滴资源",
     "baseUrl": "https://api.ddapi.cc/api.php/provide/vod",
@@ -336,6 +320,14 @@
     "priority": 5
   },
   {
+    "id": "wangwang",
+    "name": "🎬旺旺资源",
+    "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "piaoling",
     "name": "🎬飘零资源",
     "baseUrl": "https://p2100.net/api.php/provide/vod",
@@ -360,9 +352,33 @@
     "priority": 10
   },
   {
+    "id": "danaizi",
+    "name": "🔞-大奶子-",
+    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "doudou",
     "name": "🔞豆豆资源",
     "baseUrl": "https://api.douapi.cc/api.php/provide/vod",
+    "group": "premium",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "msnii",
+    "name": "🔞-美少女-",
+    "baseUrl": "https://www.msnii.com/api/json.php",
+    "group": "premium",
+    "enabled": true,
+    "priority": 10
+  },
+  {
+    "id": "kxgav",
+    "name": "🔞白嫖资源",
+    "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": true,
     "priority": 10
@@ -376,13 +392,22 @@
     "priority": 10
   },
   {
-    "id": "wangwang",
-    "name": "🎬旺旺资源",
-    "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
+    "id": "maotai",
+    "name": "🎬茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 130,
-    "_comment": "搜索无结果"
+    "priority": 101,
+    "_comment": "超时/宕机"
+  },
+  {
+    "id": "shayu",
+    "name": "🔞鲨鱼资源",
+    "baseUrl": "https://shayuapi.com/api.php/provide/vod",
+    "group": "premium",
+    "enabled": false,
+    "priority": 101,
+    "_comment": "超时/宕机"
   },
   {
     "id": "guangsu",
@@ -439,15 +464,6 @@
     "_comment": "超时/宕机"
   },
   {
-    "id": "danaizi",
-    "name": "🔞-大奶子-",
-    "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "搜索无结果"
-  },
-  {
     "id": "xing",
     "name": "🔞-幸资源-",
     "baseUrl": "https://xzybb2.com/api.php/provide/vod",
@@ -455,23 +471,5 @@
     "enabled": false,
     "priority": 130,
     "_comment": "超时/宕机"
-  },
-  {
-    "id": "msnii",
-    "name": "🔞-美少女-",
-    "baseUrl": "https://www.msnii.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "搜索无结果"
-  },
-  {
-    "id": "kxgav",
-    "name": "🔞白嫖资源",
-    "baseUrl": "https://www.kxgav.com/api/json.php",
-    "group": "premium",
-    "enabled": false,
-    "priority": 130,
-    "_comment": "搜索无结果"
   }
 ]
