@@ -16,6 +16,22 @@
     "priority": 5
   },
   {
+    "id": "maotai",
+    "name": "🎬茅台资源",
+    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
+    "id": "wolong",
+    "name": "🎬卧龙资源",
+    "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 5
+  },
+  {
     "id": "ikun",
     "name": "🎬iKun资源",
     "baseUrl": "https://ikunzyapi.com/api.php/provide/vod",
@@ -360,30 +376,12 @@
     "priority": 10
   },
   {
-    "id": "maotai",
-    "name": "🎬茅台资源",
-    "baseUrl": "https://caiji.maotaizy.cc/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
-    "id": "wolong",
-    "name": "🎬卧龙资源",
-    "baseUrl": "https://wolongzyw.com/api.php/provide/vod",
-    "group": "normal",
-    "enabled": false,
-    "priority": 101,
-    "_comment": "超时/宕机"
-  },
-  {
     "id": "wangwang",
     "name": "🎬旺旺资源",
     "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
     "group": "normal",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "搜索无结果"
   },
   {
@@ -392,7 +390,7 @@
     "baseUrl": "https://apidanaizi.com/api.php/provide/vod",
     "group": "premium",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "搜索无结果"
   },
   {
@@ -401,7 +399,7 @@
     "baseUrl": "https://www.msnii.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "搜索无结果"
   },
   {
@@ -410,7 +408,7 @@
     "baseUrl": "https://www.kxgav.com/api/json.php",
     "group": "premium",
     "enabled": false,
-    "priority": 115,
+    "priority": 116,
     "_comment": "搜索无结果"
   },
   {
