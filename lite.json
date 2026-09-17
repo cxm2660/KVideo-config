@@ -160,6 +160,14 @@
     "priority": 5
   },
   {
+    "id": "piaoling",
+    "name": "🎬飘零资源",
+    "baseUrl": "https://p2100.net/api.php/provide/vod",
+    "group": "normal",
+    "enabled": true,
+    "priority": 10
+  },
+  {
     "id": "modudm",
     "name": "🎬魔都动漫",
     "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod",
